@@ -1,0 +1,27 @@
+[
+    {
+        "model": "jayceesapi.flavor",
+        "pk": 1,
+        "fields": {
+            "flavor": "strawberry",
+            "price": 1.99
+        }
+    },
+    {
+        "model": "jayceesapi.flavor",
+        "pk": 2,
+        "fields": {
+            "flavor": "vanilla",
+            "price": 2.99
+        }
+    },
+    {
+        "model": "jayceesapi.flavor",
+        "pk": 3,
+        "fields": {
+            "flavor": "cherry",
+            "price": 1.50
+        }
+    }
+]     
+

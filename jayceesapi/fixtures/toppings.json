@@ -1,0 +1,26 @@
+[
+    {
+        "model": "jayceesapi.toppings",
+        "pk": 1,
+        "fields": {
+            "toppings": "sprinkles",
+            "price": 1.10
+        }
+    },
+    {
+        "model": "jayceesapi.toppings",
+        "pk": 2,
+        "fields": {
+            "toppings": "syrup",
+            "price": 1.50
+        }
+    },
+    {
+        "model": "jayceesapi.toppings",
+        "pk": 3,
+        "fields": {
+            "toppings": "whip cream",
+            "price": 0.50
+        }
+    }
+] 
