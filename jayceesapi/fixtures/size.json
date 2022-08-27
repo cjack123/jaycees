@@ -1,0 +1,23 @@
+[
+    {
+        "model": "jayceesapi.size",
+        "pk": 1,
+        "fields": {
+            "size": "small"
+        }
+    },
+    {
+        "model": "jayceesapi.size",
+        "pk": 2,
+        "fields": {
+            "size": "medium"
+        }
+    },
+    {
+        "model": "jayceesapi.size",
+        "pk": 3,
+        "fields": {
+            "size": "large"
+        }
+    }
+]  
