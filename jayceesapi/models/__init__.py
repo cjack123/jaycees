@@ -6,3 +6,4 @@ from .payMethod import PaymentMethod
 from .receipt import Receipt
 from .size import Size
 from .toppings import Toppings
+from .worker import Worker
